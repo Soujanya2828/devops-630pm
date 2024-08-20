@@ -1,2 +1,3 @@
 We are learning how to use git
 Git id intresting 
+In git branches lightweight
