@@ -3,4 +3,5 @@ Git id intresting
 In git branches lightweight
 Git branches are nice
 Working on git stash
-Deleted task4 
+Deleted task4 clear
+Git has comprehensive feature
